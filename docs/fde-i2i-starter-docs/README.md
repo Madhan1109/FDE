@@ -8,12 +8,25 @@ This folder turns that long guide into short study notes so you can understand i
 
 ## How to use
 
-1. Read files **01 → 10** in order (about 15–25 min each)
-2. After each file, answer 2–3 questions from the assessment
-3. Before interviews/demos, revise [`10-quick-revision-cheatsheet.md`](./10-quick-revision-cheatsheet.md)
-4. Full practice test: [`assessment-mcqs.md`](./assessment-mcqs.md)
+1. **Start with prerequisites** (`00` / `00a`–`00c`) — the DOCX lists these before the main content
+2. Then read files **01 → 10** in order (about 15–25 min each)
+3. After each file, answer 2–3 questions from the assessment
+4. Before interviews/demos, revise [`10-quick-revision-cheatsheet.md`](./10-quick-revision-cheatsheet.md)
+5. Prerequisites quiz: [`assessment-prerequisites-mcqs.md`](./assessment-prerequisites-mcqs.md)
+6. Full guide practice test: [`assessment-mcqs.md`](./assessment-mcqs.md)
 
-## Study list
+## Prerequisites (from the DOCX — deep dives)
+
+The guide expects basic knowledge of **LLMs**, **APIs/external tools**, and **programming (Python)**. Those were not separate deep files in the first pack; they are here now:
+
+| # | Topic | File |
+|---|-------|------|
+| 00 | Prerequisites overview | [00-prerequisites-overview.md](./00-prerequisites-overview.md) |
+| 00a | LLMs as reasoning / decision engines | [00a-llm-fundamentals.md](./00a-llm-fundamentals.md) |
+| 00b | APIs and external tools | [00b-apis-and-external-tools.md](./00b-apis-and-external-tools.md) |
+| 00c | Python fundamentals for agents | [00c-python-for-agents.md](./00c-python-for-agents.md) |
+
+## Main study list
 
 | # | Topic | File |
 |---|-------|------|
