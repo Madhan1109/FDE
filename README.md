@@ -16,4 +16,5 @@ Use this repo to:
 
 - prepare for FDE presentations and interviews
 - study FDE skills over the next few weeks
+- learn Python from scratch as a Java developer ([docs/python-upskilling](./docs/python-upskilling/README.md))
 - keep notes separate from application code repos

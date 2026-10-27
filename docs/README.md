@@ -14,6 +14,7 @@ Start here:
 8. [08 — Link to your HR Chat Agent work](./08-link-to-hr-agent.md)
 9. [09 — Practice questions](./09-practice-questions.md)
 10. [10 — YouTube video notes (org task)](./10-youtube-video-notes.md) · [Word doc](./FDE-YouTube-Video-Notes.docx)
+11. [Python Upskilling (Java → Python)](./python-upskilling/README.md) · source plan: [Python Upskilling plan.pdf](./Python%20Upskilling%20plan.pdf)
 
 ## One-sentence definition
 
