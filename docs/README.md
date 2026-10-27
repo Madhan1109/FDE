@@ -15,6 +15,8 @@ Start here:
 9. [09 — Practice questions](./09-practice-questions.md)
 10. [10 — YouTube video notes (org task)](./10-youtube-video-notes.md) · [Word doc](./FDE-YouTube-Video-Notes.docx)
 11. [Python Upskilling (Java → Python)](./python-upskilling/README.md) · source plan: [Python Upskilling plan.pdf](./Python%20Upskilling%20plan.pdf)
+12. [I2I Agentic AI starter study pack](./fde-i2i-starter-docs/README.md) · source: [I2I guide (docx)](./I2I%20-%20Agentic%20AI%20Starter%20Guide%20_%20FDE.docx)
+13. [Recommended blogs — FDE + Agentic AI](./fde-agentic-ai-recommended-blogs.md) (shareable links for the learning group)
 
 ## One-sentence definition
 
