@@ -2,6 +2,8 @@
 
 Source: I2I Agentic AI Starter Guide concepts (study pack 01–10).
 
+For the DOCX **prerequisites** (LLMs, APIs/tools, Python), use [`assessment-prerequisites-mcqs.md`](./assessment-prerequisites-mcqs.md) first.
+
 **How to use:** Cover the **Answer** lines. Score yourself. Aim for ≥80% before claiming the guide is “understood.”
 
 Legend: **(M)** medium · **(C)** complex
