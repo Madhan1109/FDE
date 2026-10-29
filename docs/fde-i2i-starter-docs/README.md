@@ -42,6 +42,14 @@ The guide expects basic knowledge of **LLMs**, **APIs/external tools**, and **pr
 | 10 | One-page revision sheet | [10-quick-revision-cheatsheet.md](./10-quick-revision-cheatsheet.md) |
 | — | Medium–complex MCQs with answers | [assessment-mcqs.md](./assessment-mcqs.md) |
 
+## Shareable PDFs (for email / leadership thread)
+
+| File | Description |
+|------|-------------|
+| [I2I-Agentic-AI-Executive-Summary.pdf](./I2I-Agentic-AI-Executive-Summary.pdf) | Clean 3–4 page summary of the full study pack |
+| [I2I-Agentic-AI-Complex-MCQs-50.pdf](./I2I-Agentic-AI-Complex-MCQs-50.pdf) | 50 complex MCQs; answers at the end |
+| [EMAIL-DRAFT-share-with-team.md](./EMAIL-DRAFT-share-with-team.md) | Subject + email body for sharing |
+
 ## One-line big idea
 
 **An AI agent** can do a task with an LLM + tools.  
